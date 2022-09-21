@@ -1,7 +1,3 @@
-# CS-7643 Final Project
-## by Zhiyin (Steven) Lu and Yixuan (Elliot) Xie
-### zlu335@gatech.edu, yxie391@gatech.edu
-
 ## Files
 The directory contains the following files and subdirectories:
 - collect_meta_data.ipynb: collect the metadata of the dataset and generate a .csv file for the convenience of loading data
